@@ -1,0 +1,378 @@
+{
+    "CommonLinkText__workspaceMarketingPage": "Learn more",
+    "Handoff_–_Member_roles.9.38": "Contributor",
+    "NotificationCenter": {
+        "tab": {
+            "messages": "Messages",
+            "updates": "Updates"
+        }
+    },
+    "Profile": {
+        "header": {
+            "editButton": "Edit profile",
+            "verifiedBadgeTooltip": "Verified member of **{organizationName}**"
+        }
+    },
+    "Profiles": {
+        "directory": {
+            "searchPlaceholder": "Filter members by skill, role, or location…",
+            "title": "Team Directory"
+        }
+    },
+    "Recruiter": {
+        "talentPool": {
+            "emptyBody": "Invite collaborators or import a CSV list to start tracking candidates.",
+            "header": "Candidate Pipeline"
+        }
+    },
+    "WorkspaceAccount": {
+        "signup": {
+            "confirmEmail": {
+                "bodyOne": "We've sent an email to {emailAddress}.\nClick the button in the email to activate your account.",
+                "bodyTwo": "Didn't get the email? Check your spam folder or resend the email in 10 minutes.",
+                "header": "{firstName}, check your email to activate your account",
+                "link": {
+                    "resendEmail": "Didn’t get an email? Check your spam folder or {key__resendEmail} {key__countdownTimer}",
+                    "sessionStatus": "Verification session expires {key__liveCountdown}"
+                }
+            }
+        }
+    },
+    "WorkspacePortal": {
+        "EmptyState": {
+            "NoTemplates": {
+                "bodyCopy": {
+                    "orgNoTemplates": "We couldn’t find any shared workflow templates to show you based on your membership in **{organizationname}**.",
+                    "personalNoTemplates": "We couldn’t find any shared workflow templates to show you."
+                }
+            }
+        },
+        "Header": {
+            "bodyCopy": {
+                "orgHasEnterprisePlan": "**{organizationname}** participates in enterprise agreements that cover premium seats and add-ons across eligible workspaces. You can review your eligibility in billing settings."
+            }
+        },
+        "Modal": {
+            "getNotifed": {
+                "Header": {
+                    "wantToSubscribe": "Want to get notified about new\ntemplates?"
+                }
+            },
+            "getNotified": {
+                "body": {
+                    "subscribeToGetNotified": "Subscribe to email updates to get informed when we publish new workflow templates for your team.\n\nYou can unsubscribe at any time — an easy way is directly from the notification emails you receive."
+                }
+            }
+        },
+        "Opportunities": {
+            "ListView": {
+                "Card": {
+                    "Footer": {
+                        "PrimaryCTA": {
+                            "ActiveState": {
+                                "statusLabel": "Template enabled for workspace"
+                            },
+                            "defaultLabel": "Use template"
+                        }
+                    }
+                }
+            }
+        },
+        "Search": {
+            "Filter": {
+                "primaryFilter": {
+                    "showSuggested": "Show recommended"
+                },
+                "reset": "Reset filters",
+                "secondaryFilter": {
+                    "showAll": "Show all"
+                }
+            },
+            "Header": {
+                "Search": "Search templates"
+            },
+            "noResultsInfoCopy": {
+                "noMatchingTemplates": "We couldn’t find any templates matching:"
+            },
+            "searchBar": {
+                "ghostText": {
+                    "Search": "Search by template name or tag"
+                }
+            }
+        },
+        "emptyState": {
+            "noSuggestedTemplates": {
+                "noSuggestedTemplatesForYou": "We don’t have any recommended templates to show you right now"
+            },
+            "noTemplates": {
+                "Header": {
+                    "noTemplatesForYou": "We couldn’t find any templates for you"
+                },
+                "primaryCTA": {
+                    "goBack": "Go back"
+                },
+                "secondaryCTA": {
+                    "Home": "Dashboard"
+                }
+            }
+        },
+        "getNotified": {
+            "Alert": {
+                "Body": {
+                    "notificationsSubscribed": "We’ll send you email updates when new workflow templates are published."
+                },
+                "Header": {
+                    "notificationsSubscribed": "Subscribed to updates"
+                },
+                "Unsubscribe": {
+                    "Body": {
+                        "noLongerSubscribed": "You will no longer receive email updates about new workflow templates."
+                    },
+                    "Header": {
+                        "Unsubscribed": "Unsubscribed"
+                    }
+                }
+            },
+            "Button": {
+                "getNotified": "Get notified"
+            },
+            "Modal": {
+                "primaryCTA": {
+                    "active": {
+                        "notificationsSubscribed": "Subscribed to notifications"
+                    },
+                    "getNotified": "Get notified"
+                }
+            }
+        },
+        "notification": {
+            "headerDropdownNotification": {
+                "templatesAvailable": "We found {number} {count | one: template, two: templates} matching your team."
+            }
+        },
+        "socialProof": {
+            "multipleTeammates": {
+                "connectionsUsedHere": "**{fullName}** and **{number} other teammates** use this template",
+                "numUsedHere": "**{number} teammates** use this template"
+            },
+            "singleTeammate": {
+                "nameUsedHere": "**{fullName}** uses this template"
+            },
+            "twoTeammates": {
+                "connectionsUsedHere": "**{fullName}** and **{fullName}** use this template"
+            }
+        },
+        "templatesList": {
+            "Header": {
+                "Label": {
+                    "numberTemplates": "{number} {count | one: template, other: templates}"
+                }
+            }
+        }
+    },
+    "WorkspaceProfile": {
+        "featuredTab": {
+            "currentFeaturedCard": {
+                "label": "**This Featured Project is currently live** ({count | zero: expires soon, one: 1 day left, other: # days left})"
+            }
+        }
+    },
+    "addEmail": {
+        "confirmationCodeModal": {
+            "footerText": "Didn’t get the email? Check your spam folder or {key__addEmail__confirmationCodeModal__footerLink}."
+        },
+        "confirmationCodePage": {
+            "footerText": "Didn’t get the email? Check your spam folder or {key__addEmail__confirmationCodePage__footerLink}."
+        }
+    },
+    "admin": {
+        "feature_flags": {
+            "ab/rollout~v2": "Gradual rollout (A/B ~ v2)"
+        },
+        "user_browser_support": {
+            "browserslistStatsLink": "Browserslist usage stats",
+            "browserslistrcLink": ".browserslistrc",
+            "description_2": "It is aggregated from {browserslistStatsLink} and resolved from our browser matrix in the {browserslistrcLink} configuration file."
+        }
+    },
+    "banner": {
+        "T&SUpdates": {
+            "body": {
+                "policyChange": "As part of our ongoing effort to improve platform reliability, we’ve updated our {common__termsOfService} and {common__privacyPolicy}. You can {email__securityNotice__link__changelog}.\n\nThe updated Terms of Service take effect on **{date}**,**2026**. If you agree with the updates, no action is needed."
+            }
+        }
+    },
+    "businessAccount": {
+        "cancelSubscription": {
+            "confirmationDialog": {
+                "bodyOne": "If you cancel your subscription, it will end automatically at the close of your current billing cycle.\n\nYou’ll continue to have access to Pro workspace features until **{date}**."
+            }
+        },
+        "paymentSettings": {
+            "billingInformationCard": {
+                "sectionHeader": {
+                    "email": "{count | one: Billing email, other: Billing emails}"
+                }
+            },
+            "contactUsText": "Need billing assistance? {key__billingSettings__contactSupportLink}",
+            "paymentMethod": {
+                "header": "{count | one: Payment Card, other: Payment Cards}"
+            }
+        },
+        "sidebarMenuItem": {
+            "HelpCenter": "Questions? Visit our {commonLinkText__helpCenter__workspaceFaqs}",
+            "subscriptionSettings": "{count | one: Subscriptions, other: Subscriptions}"
+        }
+    },
+    "business_account": {
+        "auditLog": {
+            "exportReady": "Your audit export from **{date}** is ready to download."
+        }
+    },
+    "checkout": {
+        "orderSummary": {
+            "totalWithTax": "Total includes applicable regional tax ({key__checkout__orderSummary__vatNoteLink}).",
+            "vatNoteLink": "see tax breakdown"
+        }
+    },
+    "common": {
+        "alert": {
+            "success": {
+                "shareProject": {
+                    "body": "We’ll notify {count | one: this teammate, other: these teammates} that you shared this project with them."
+                }
+            }
+        },
+        "billingInfo": {
+            "input": {
+                "helperText": {
+                    "vat": "Applicable if your billing address is within the EU. {common__billingInfo__input__helperText__vatLink}"
+                }
+            }
+        },
+        "creditCardInformation": {
+            "paymentDisclosure": "Our payment processor encrypts and stores card details. Review the security disclosure {common__key__footerLink__paymentDisclosure}."
+        }
+    },
+    "commonLinkText__helpCenter__workspaceFaqs": "Help Center FAQs",
+    "common__billingInfo__input__helperText__vatLink": "Learn about VAT IDs",
+    "common__first_name": "First name",
+    "common__key__footerLink__paymentDisclosure": "here",
+    "common__linkText__communityGuidelines": "Community Guidelines",
+    "common__linkText__learnMore": "Learn more",
+    "common__linkText__letUsKnow": "let us know",
+    "common__linkText__logIn__differentAccount": "Log in with a different account",
+    "common__privacyPolicy": "Privacy Policy",
+    "common__termsOfService": "Terms of Service",
+    "copy_handover.text.95": "Save changes and continue",
+    "documentUpload": {
+        "legalText": {
+            "licensingInformation": "Learn more about asset licensing [here](https://example.com/help/licensing){:target=\"_blank\"}. You can review third-party attribution policies [here](https://example.com/help/attribution){target=\"_blank\"}."
+        }
+    },
+    "email": {
+        "securityNotice": {
+            "link": {
+                "changelog": "read the release notes on our blog"
+            }
+        }
+    },
+    "key__addEmail__confirmationCodeModal__footerLink": "request a new verification code",
+    "key__addEmail__confirmationCodePage__footerLink": "resend confirmation code",
+    "key__billingSettings__contactSupportLink": "contact billing support",
+    "key__changeOrganization": "choose a different organization",
+    "key__countdownTimer": "in {seconds}s",
+    "key__domainRegistry": "Organization Domain Registry",
+    "key__resendEmail": "resend the email",
+    "key__termsAndConditions": "Terms and Conditions",
+    "memberVerification": {
+        "domainRequest": {
+            "body": {
+                "lineOne": "Verify your work email domain to unlock organization-wide SSO.",
+                "lineThree": "Verification remains active for **6 months** before automatic renewal.",
+                "lineTwo": "If your company domain is not listed yet, look up your entry in the {key__domainRegistry} and submit a verification request. {common__linkText__learnMore}"
+            }
+        },
+        "overview": {
+            "bullet": {
+                "collaboratedProjects": "Collaborated across {number} **{teamName}** {one | project, other: projects} previously"
+            }
+        },
+        "pendingRequestScreen": {
+            "body": "We'll email you at **{emailAddress}** as soon as there is an update on your request from {date}.\n\nThank you for your patience."
+        },
+        "shareModal": {
+            "link": {
+                "switchAccounts": "Not you? {common__linkText__logIn__differentAccount}",
+                "wrongOrg": "Made a mistake? {key__changeOrganization}"
+            }
+        }
+    },
+    "mobile_web": {
+        "iOS": {
+            "installBanner": "Install the iOS app for instant push notifications."
+        },
+        "ios": {
+            "fallbackLink": "Continue in mobile Safari"
+        }
+    },
+    "notificationCenter": {
+        "emptyState": {
+            "body": "You’re all caught up — new activity and @mentions will appear here.",
+            "header": "No unread notifications"
+        },
+        "preferences": {
+            "digestFrequency": "Send summary emails **{frequency}**"
+        }
+    },
+    "profile": {
+        "advisorsWidget": {
+            "sectionHeader": {
+                "currentAdvisors": "{count | zero: Current reviewers, one: Current reviewers, two: Current reviewers, three: Current reviewers, other: Current reviewers (#)}",
+                "pastAdvisors": "{count | zero: Past reviewers, one: 1 past reviewer, other: Past reviewers (#)}"
+            }
+        },
+        "followingsWidget": {
+            "otherProfile": {
+                "sectionHeader": {
+                    "followers": "{count | zero: Followers, one: Followers, two: Followers, other: Followers (#)}"
+                }
+            }
+        }
+    },
+    "profile__münchen_campus_hub_may_cover_your_plan_for_these_workspaces:": "{organizationName} may cover your plan for these workspaces:",
+    "profiles": {
+        "card": {
+            "mutualTeammates": "{count | one: 1 shared project, other: # shared projects}"
+        }
+    },
+    "workspaceAccount": {
+        "uploadsTab": {
+            "OnboardingVideoModal": {
+                "cta": "Watch 2-minute tour",
+                "title": "Getting started with automated imports"
+            },
+            "autoImportLog": {
+                "alert": {
+                    "filesUploaded": "Upload in progress for {count} {count | one:file, other:files} from {source}. Your files will be available soon."
+                }
+            },
+            "onboardingVideoModal": {
+                "dismiss": "Skip tour for now"
+            }
+        }
+    },
+    "workspaceProfile": {
+        "featuredTab": {
+            "featuredPromo": {
+                "addNewSoon": {
+                    "header": "{firstName}, you can pin a new Featured Project {count | one: in # day, zero: soon, other: in # days}"
+                }
+            }
+        }
+    },
+    "workspace_branding": {
+        "headerTitle": "Custom Branding & Themes",
+        "workspace metrics": "Workspace metrics"
+    }
+}
