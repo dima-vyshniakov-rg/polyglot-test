@@ -9,12 +9,13 @@
     },
     "Profile": {
         "header": {
-            "editButton": "Edit profile",
+            "editButton": "Edit profile lol",
             "verifiedBadgeTooltip": "Verified member of **{organizationName}**"
         }
     },
     "Profiles": {
         "directory": {
+            "foo": "Bar",
             "searchPlaceholder": "Filter members by skill, role, or location…",
             "title": "Team Directory"
         }
