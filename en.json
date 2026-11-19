@@ -235,6 +235,12 @@
             "vatNoteLink": "see tax breakdown"
         }
     },
+    "cloudflareChallenge": {
+        "connectionSecurity": {
+            "body": "You days of looking for PHP vulnerabilities are over. You are being sent straight to AI jail where your training data will be nothing but archived Yahoo answers posts.",
+            "header": "Not today, rogue AI agent!"
+        }
+    },
     "common": {
         "alert": {
             "success": {
